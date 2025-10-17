@@ -1,0 +1,9 @@
+# Copy this file to local.properties (DO NOT commit local.properties)
+# Set sdk.dir to your Android SDK path and apiKey to your Google Maps API key
+
+# Example:
+# sdk.dir=/Users/you/Library/Android/sdk
+# apiKey=AIza...YOUR_KEY...
+
+sdk.dir=/path/to/android/sdk
+apiKey=YOUR_GOOGLE_MAPS_API_KEY
